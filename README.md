@@ -1,1 +1,1 @@
-Xin chào các bợn tôi là n.anh nè
+Xin chào, đây là file README.md để thực hành conflict
