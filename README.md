@@ -1,1 +1,1 @@
-Xin chào, đây là file README.md để thực hành conflict
+Nội dung sai, nhập nhầm rồi
