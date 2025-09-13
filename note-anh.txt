@@ -2,4 +2,8 @@ HEAD
 Đây là note của Anh
 MSSV:225234
 demo PR update
+<<<<<<< HEAD
 52e156bbc615c577e658eb195019dbaf6516e2e8
+=======
+ 52e156bbc615c577e658eb195019dbaf6516e2e8
+>>>>>>> feature-shared
